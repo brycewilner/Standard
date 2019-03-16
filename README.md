@@ -1,8 +1,8 @@
-# Standard Book
+# Standard
 
-A font in one weight drawn and modified from Berthold’s 1970 book weight of Standard.
+This font is a translation and modification of Berthold’s 1896 version of Standard.
 
 Designed using Robofont
 
-Standard Book is under Open Font License (OFL).
+Standard is available under the SIL Open Font License.
 http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL

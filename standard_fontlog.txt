@@ -1,0 +1,36 @@
+FONTLOG FOR STANDARD
+
+This file provides detailed information on the Standard font software. This information should be distributed along with the Standard font and any derivative works.
+
+BASIC FONT INFORMATION
+
+Standard is a Unicode typeface family that supports all languages that use the Latin script and its variants, and could be expanded to support other scripts.
+
+Standard is available under the SIL Open Font License
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+CHANGELOG
+
+July 2017 (Bryce Wilner) Standard version 1.0
+—Initial release
+
+February 2019 (Bryce Wilner) Standard version 2.0
+—Modification of the font files’ naming convention
+—Addition of Bold and Bold Italic
+
+March 2019 (Bryce Wilner) Standard version 2.0
+—Added the following Czech and Polish diacritics:
+č ď ě ň ř ť ů ž ź ż ą ę ł Č Ď Ę Ň Ř Ž Ź Ż Ť Ů Ą Ě Ł 
+
+ACKNOWLEDGMENTS
+
+This font is a translation and modification of Berthold’s 1896 version of Standard.
+
+Thank you to Cargo Collective and Printed Matter, Inc. for sponsoring the development of Standard’s Bold and Bold Italic.
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Bryce Wilner
+E: wilnerbs@gmail.com
+W: http://brycewilner.com
+D: Designer—original Roman glyphs
