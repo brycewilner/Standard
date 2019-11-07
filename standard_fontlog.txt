@@ -20,7 +20,15 @@ February 2019 (Bryce Wilner) Standard version 2.0
 
 March 2019 (Bryce Wilner) Standard version 2.0
 —Added the following Czech and Polish diacritics:
-č ď ě ň ř ť ů ž ź ż ą ę ł Č Ď Ę Ň Ř Ž Ź Ż Ť Ů Ą Ě Ł 
+č ď ě ň ř ť ů ž ź ż ą ę ł Č Ď Ę Ň Ř Ž Ź Ż Ť Ů Ą Ě Ł
+
+August 2019 (Bryce Wilner) Standard version 2.0
+—Added the following fractions for all fonts: 
+⅓ ⅔ ⅛ ⅜ ⅝ ⅞ 
+
+November 2019 (Bryce Wilner) Standard version 2.0
+—Edited the following diacritics for all fonts: 
+˛ ą ę Ą Ę ˚ å ů Å Ů
 
 ACKNOWLEDGMENTS
 
