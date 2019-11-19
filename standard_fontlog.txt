@@ -30,6 +30,10 @@ November 2019 (Bryce Wilner) Standard version 2.0
 —Edited the following diacritics for all fonts: 
 ˛ ą ę Ą Ę ˚ å ů Å Ů
 
+November 2019 (Bryce Wilner) Standard version 2.0
+—Added the following glyphs for all fonts: 
+̬ „ ‹ › • ⁄ € enspace emspace thinspace hairspace
+
 ACKNOWLEDGMENTS
 
 This font is a translation and modification of Berthold’s 1896 version of Standard.
