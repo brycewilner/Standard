@@ -34,6 +34,10 @@ November 2019 (Bryce Wilner) Standard version 2.0
 —Added the following glyphs for all fonts: 
 ̬ „ ‹ › • ⁄ € enspace emspace thinspace hairspace
 
+November 2019 (Bryce Wilner) Standard version 2.0
+—Added the following glyph for all fonts: 
+⋮
+
 ACKNOWLEDGMENTS
 
 This font is a translation and modification of Berthold’s 1896 version of Standard.
